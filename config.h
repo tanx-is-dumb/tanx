@@ -1,6 +1,0 @@
-#define ENCODERS_PAD_A { B4 }
-#define ENCODERS_PAD_B { B5 }
-#define ENCODER_RESOLUTION 1
-#define OLED_DISPLAY_ADDRESS 0x3C
-#define I2C1_SCL_PIN B6
-#define I2C1_SDA_PIN B7
